@@ -1,0 +1,1 @@
+# qikb-fama-french-factor-model
